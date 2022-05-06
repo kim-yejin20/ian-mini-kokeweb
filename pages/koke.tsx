@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import ContentItem from '../components/ContentItem';
 import { ContentList } from '../components/ContentList';
 import AppImage from '../components/AppImage';
 import { FindButton } from '../components/FindButton';
