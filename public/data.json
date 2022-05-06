@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "title": "원하는 납품 원두 샘플 주문",
+      "desc": "가입만 하면 모든 원두의 샘플 주문과 방문 세팅 요청이 가능합니다.",
+      "logo": "https://d3axhpw08p03ax.cloudfront.net/static/assets/main/features/pack.png"
+    },
+    {
+      "title": "언제나 최저가",
+      "desc": "판매자 직거래로 모든 납품 원두는 최저가로 판매됩니다.",
+      "logo": "https://d3axhpw08p03ax.cloudfront.net/static/assets/main/features/save4.png"
+    },
+    {
+      "title": "실력으로 검증된 로스터리",
+      "desc": "다양한 수상경력으로 이미 검증된 로스터리와 함께합니다.",
+      "logo": "https://d3axhpw08p03ax.cloudfront.net/static/assets/main/features/award2.png"
+    }
+  ]
+}
